@@ -1,3 +1,5 @@
+## It's me, @git-clover !
+
 - 👋 Hi, I’m @git-clover
 - 👀 I’m interested in Chess.
 - 🌱 I’m currently learning *nothing.*
@@ -12,3 +14,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Revolutionary
+
+Seriously, want a revolution?
+HA, welcome to the start of revolution.
