@@ -1,10 +1,9 @@
-## It's me, @git-clover !
-
+# DEBUT | 11/19/2025
 - 👋 Hi, I’m @git-clover
-- 🖨️ (half-broken) K1 MAX
-- 🌱 I’m currently learning to *ever build a Voron.* Take a look at github.com/vorondesign/voron-trident as well :D
+- 🖨️ K1 Max + [Manta M5P](https://github.com/bigtreetech/Manta-M5P)
+- 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
-- 📫 How to reach me: Nah, just wait till I start my GitHub business.
+- 📫 Coming as soon as IL.CNC
 - 😄 Pronouns: G28/G0/G1
 
 <!---
@@ -12,5 +11,4 @@ git-clover/git-clover is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## This one might surprise you...
-Coming soon - not now. ~~Maybe home all of your printers to see me faster!~~ Here you go: $G28
+## My IDOLABS Journey
