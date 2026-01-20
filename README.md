@@ -12,8 +12,8 @@ This... is what my weeb self will scribble off my brain.
 - 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
 - 📫 Coming as soon as IL.CNC
-- 😄 IL.01 + IL.Raptor7 under IL.Raptor (F446 / H743)
-- 😈 ML.Vz + ML.RaptorX under IL.Raptor (H723)
+- 😄 IL.01 + IL.Raptor7 under IL.Raptor (F446 / H743) with EBB36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- 😈 ML.Vz + ML.RaptorX under IL.Raptor (H723) | It's now got the Pi 5 with 16 GB of RAM. Welcome to my insanity on its finest.
 
 <!---
 ## My IDOLABS Journey
