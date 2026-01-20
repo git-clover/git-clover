@@ -13,7 +13,7 @@ This... is what my weeb self will scribble off my brain.
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
 - 📫 Coming as soon as IL.CNC
 - 😄 IL.01 + IL.Raptor7 under IL.Raptor (F446 / H743) with EBB36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
-- 😈 ML.Vz + ML.RaptorX under IL.Raptor (H723) | It's now got the Pi 5 with 16 GB of RAM. Welcome to my insanity on its finest.
+- 😈 ML.Vz (6WD?!) + ML.RaptorX under IL.Raptor (H723) | I know I'm insane with this. Don't stop me.
 
 <!---
 ## My IDOLABS Journey
