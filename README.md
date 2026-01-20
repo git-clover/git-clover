@@ -1,14 +1,20 @@
-# DEBUT | 11/19/2025
-- 👋 Hi, I’m @git-clover
-- 🖨️ K1 Max + [Manta M5P](https://github.com/bigtreetech/Manta-M5P)
-- 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
-- 💞️ Beefy (>=6) mm beds... *Zero* warping.
-- 📫 Coming as soon as IL.CNC
-- 😄 Pronouns: G28/G0/G1
-
 <!---
 git-clover/git-clover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+This... is what my weeb self will scribble off my brain.
 --->
 
+# DEBUT | 11/19/2025 @[IL.00](https://www.printables.com/model/1444709-il00-k1sl-creality-k1-max-superlight-bed-frame)
+- 👋 Hi, I’m @git-clover
+- 🎵 [1000% Weeb](https://www.youtube.com/watch?v=ZRtdQ81jPUQ&pp=ygUEaWRvbA%3D%3D)
+- 🖨️ K1 Max + [Manta M5P](https://github.com/bigtreetech/Manta-M5P) | Specially developed as **IL.00**
+- 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
+- 💞️ Beefy (>=6) mm beds... *Zero* warping.
+- 📫 Coming as soon as IL.CNC
+- 😄 IL.01 + IL.Raptor7 under IL.Raptor (F446 / H743)
+- 😈 ML.Vz + ML.RaptorX under IL.Raptor (H723)
+
+<!---
 ## My IDOLABS Journey
+--->
