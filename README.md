@@ -11,9 +11,9 @@ This... is what my weeb self will scribble off my brain.
 - 🖨️ K1 Max + [Manta M5P](https://github.com/bigtreetech/Manta-M5P) | Specially developed as **IL.00**
 - 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
-- 📫 Coming as soon as IL.CNC
-- 😄 IL.01 + IL.Raptor7 under IL.Raptor (F446 / H743) with EBB36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
-- 😈 ML.Vz (6WD?!) + ML.RaptorX under IL.Raptor (H723) | I know I'm insane with this. Don't stop me.
+- 📫 Coming soon: IL.CNC
+- 😄 IL.01 + IL.Raptor7 and RaptorCORE Plus (F446) with EBB36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- 😈 ML.Vz (6WD?!) + IL.RaptorX and RaptorCORE Max (H723) | I know I'm insane with [this](https://github.com/VzBoT3D/VzBoT-Vz330). Don't stop me.
 
 <!---
 ## My IDOLABS Journey
