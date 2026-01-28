@@ -12,7 +12,7 @@ This... is what my weeb self will scribble off my brain.
 - 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
 - 📫 Coming soon: IL.CNC
-- 😄 IL.01 + IL.Raptor7 and RaptorCORE Plus (F446) with EBB36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- 😄 IL.01 + IL.Raptor8 and RaptorCORE Plus (F446) with EBB36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
 - 😈 ML.Vz (6WD?!) + IL.RaptorX and RaptorCORE Max (H723) | I know I'm insane with [this](https://github.com/VzBoT3D/VzBoT-Vz330). Don't stop me.
 
 <!---
