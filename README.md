@@ -9,7 +9,7 @@ This... is what my weeb self will scribble off my brain.
 - 👋 Hi, I’m @git-clover
 - 🎵 [1000% Weeb](https://www.youtube.com/watch?v=ZRtdQ81jPUQ&pp=ygUEaWRvbA%3D%3D)
 - 🖨️ K1 Max + [Manta M5P](https://github.com/bigtreetech/Manta-M5P) | Specially developed as **IL.00**
-  - To be replaced with IL.Raptor5 and IL.C401
+  - To be replaced with IL.Raptor5 and IL.C429
 - 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
 - 📫 IL.CNC
