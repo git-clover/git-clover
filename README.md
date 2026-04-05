@@ -13,8 +13,8 @@ This... is what my weeb self will scribble off my brain.
 - 🌱 [Wanna build a Voron!](https://github.com/vorondesign/voron-trident)
 - 💞️ Beefy (>=6) mm beds... *Zero* warping.
 - 📫 IL.CNC
-- 😄 IL.01 + IL.Raptor8 and IL.C446 with ~~EBB36~~ IL.T36 | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
-- 😈 ML.Vz (6WD?!) + IL.RaptorX and IL.C723 | I know I'm insane with [this](https://github.com/VzBoT3D/VzBoT-Vz330). Don't stop me.
+- 😄 IL.01 + IL.Raptor8 and IL.C446(Motors) with IL.C0B1(Misc) | Proud of you, [Xol-toolhead!](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- 😈 IL.Vz + IL.RaptorX and IL.C723(Motors) with IL.C401(Misc) | Simon's [VzBoT.](https://github.com/VzBoT3D/VzBoT-Vz330) Reborn.
 
 <!---
 ## My IDOLABS Journey
